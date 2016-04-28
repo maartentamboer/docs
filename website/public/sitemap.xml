@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://maartentamboer.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/basics/</loc>
+    <loc>http://maartentamboer.github.io/docs/basics/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/basics/second-content/</loc>
+    <loc>http://maartentamboer.github.io/docs/basics/second-content/</loc>
     <lastmod>2016-04-27T13:48:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/basics/first-content/</loc>
+    <loc>http://maartentamboer.github.io/docs/basics/first-content/</loc>
     <lastmod>2016-04-27T13:47:55+02:00</lastmod>
   </url>
   

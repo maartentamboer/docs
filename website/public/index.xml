@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://maartentamboer.github.io/docs/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://maartentamboer.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Basics</title>
-      <link>http://replace-this-with-your-hugo-site.com/basics/</link>
+      <link>http://maartentamboer.github.io/docs/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/basics/</guid>
+      <guid>http://maartentamboer.github.io/docs/basics/</guid>
       <description>
 
 &lt;h3 id=&#34;chapter-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Chapter 1&lt;/h3&gt;
@@ -26,20 +26,20 @@
     
     <item>
       <title>index</title>
-      <link>http://replace-this-with-your-hugo-site.com/basics/second-content/</link>
+      <link>http://maartentamboer.github.io/docs/basics/second-content/</link>
       <pubDate>Wed, 27 Apr 2016 13:48:01 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/basics/second-content/</guid>
+      <guid>http://maartentamboer.github.io/docs/basics/second-content/</guid>
       <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first content</title>
-      <link>http://replace-this-with-your-hugo-site.com/basics/first-content/</link>
+      <link>http://maartentamboer.github.io/docs/basics/first-content/</link>
       <pubDate>Wed, 27 Apr 2016 13:47:55 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/basics/first-content/</guid>
+      <guid>http://maartentamboer.github.io/docs/basics/first-content/</guid>
       <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
 </description>
     </item>

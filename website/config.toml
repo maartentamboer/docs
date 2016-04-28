@@ -1,7 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://maartentamboer.github.io/docs/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-learn"
+canonifyurls = true
 
 [params]
   editURL = "https://github.com/Open-Canalyzer/docs"
